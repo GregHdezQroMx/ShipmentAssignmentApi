@@ -1,5 +1,5 @@
 {
-  "shipments": [
+  "shipmentList": [
     "shipment": {
         "id": 215,
         "streetName": "Osinski Manors",
